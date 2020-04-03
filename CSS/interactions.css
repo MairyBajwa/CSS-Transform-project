@@ -54,13 +54,13 @@ img:hover{
   transition:transform .7s;
 }
 .slide .photo-overlay{
-  transform:translateX(-100%)
+  transform:translateX(-100%);
 }
 .slide:hover .photo-overlay{
-  transform:translateX(0%)
+  transform:translateX(0%);
 }
 .slide:hover img{
-  transform:translate(100%)
+  transform:translate(100%);
 }
 
 /* -- Logo ---------- */

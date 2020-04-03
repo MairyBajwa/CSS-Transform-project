@@ -63,7 +63,11 @@ img:hover{
   transform:translate(100%)
 }
 
-
-
-
 /* -- Logo ---------- */
+.logo{
+		transition: transform .4s;
+}
+
+.logo:hover{
+	transform: scale(1.2) rotate(-25deg);
+}

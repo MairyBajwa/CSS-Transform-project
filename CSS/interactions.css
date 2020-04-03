@@ -65,7 +65,7 @@ img:hover{
 
 /* -- Logo ---------- */
 .logo{
-		transition: transform .4s;
+		transition: transform .4s cubic-bezier(1,.58,.08,1.23);
 }
 
 .logo:hover{
